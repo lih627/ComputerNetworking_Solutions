@@ -9,6 +9,10 @@
 
 提供的第六版书籍的编程作业.
 
+WireShark Lab 可以访问[作者网址](https://gaia.cs.umass.edu/kurose_ross/wireshark.htm)获得
+
+我是第一次学习计网, 跟随哈工大两位老师的慕课课程来学习的, [计算机网络(李全龙, 聂兰顺)](https://www.icourse163.org/learn/HIT-154005?tid=1450314458#/learn/announce)
+
 
 
 # Socket 编程作业
