@@ -32,5 +32,3 @@ WireShark Lab 可以访问[作者网址](https://gaia.cs.umass.edu/kurose_ross/w
 2. HTTP 协议学习
 3. DNS
 4. TCP
-
-TCP 完成了一半.
